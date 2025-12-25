@@ -13,8 +13,8 @@ from telegram.ext import (
 BOT_TOKEN = "8401774647:AAF0UXAoe97oy_zuODBJLFwVwf8OQBqZCwc"
 
 # ================== ملفات الإكسل ==================
-HEAVY_FILE = "مواد الى البوت.xlsx"
-SPARE_FILE = "مواد الى البوت الاحتياطية.xlsx"
+HEAVY_FILE = "heavy.xlsx"
+SPARE_FILE = "spare.xlsx"
 
 USD_TO_IQD = 1400
 
