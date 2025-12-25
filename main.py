@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 
 # ================== ضع التوكن هنا ==================
-BOT_TOKEN = "PUT_YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8401774647:AAF0UXAoe97oy_zuODBJLFwVwf8OQBqZCwc"
 
 # ================== ملفات الإكسل ==================
 HEAVY_FILE = "مواد الى البوت.xlsx"
